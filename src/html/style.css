@@ -395,6 +395,10 @@ nav.top-nav .menu a.highlight:active {
   font-weight: 600;
 }
 
+.section.speakers.text.strike {
+	text-decoration: line-through;
+}
+
 .section.speakers {
   flex-direction: column;
 }
