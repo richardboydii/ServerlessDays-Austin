@@ -66,7 +66,7 @@ gulp.task("generateTalks", ["dev-assets"], () => {
       .replace(/%photoUrl%/gi, photoUrl)
       .replace(/%title%/gi, title)
       .replace(/%speaker%/gi, speaker)
-      .replace(/%bio%/gi, bio)
+      .replace(/%bio%/gi, bio.replace(/\n/g, "<br/><br/>"))
       .replace(/%abstract%/gi, abstract.replace(/\n/g, "<br/><br/>"))
       .replace(/%key%/gi, key)
       .replace(/%session_type%/, (workshop?"Workshop":"Talk"));
