@@ -54,5 +54,13 @@ module.exports = [
 		"bio":"Erik Peterson is the CEO and founder of CloudZero. Previous to founding CloudZero Erik was Director of Technology Strategy for Veracode and has nearly 20 years of software industry experience, including senior leadership and technology roles at HP, SPI Dynamics, GuardedNet and Sanctum.\nErik has also held IT & InfoSec roles at Moody’s Investors Service, SunTrust Bank, U.S. Embassy Vienna, Austria and the United Nations International Atomic Energy Agency where he provided technical assistance to UN weapons inspectors. Erik has spoken at numerous events including QCon, RSA, BlackHat, Security BSides, AppSec, OWASP, ISSA, InfraGard and the Cloud Security Alliance",
 		"title":"FinDevOps: Site Reliability in the Serverless Age",
 		"abstract":"Is SRE and serverless a match made in heaven or is something missing? What about cost when building reliable Serverless systems? To answer this, lets explore SRE and Serverless principals, a new concept called FinDevOps, and along the way make a few predictions about our serverless future"
+  },
+	{
+		"key":"chris-munns-serverless-is-dead",
+		"speaker":"Chris Munns",
+		"photoUrl":"chris-munns-headshot.jpg",
+		"bio":"Chris Munns is a Principal and the lead Developer Advocate for Serverless Applications at Amazon Web Services based in New York City. Chris works with AWS's developer customers to understand how serverless technologies can drastically change the way they think about building and running applications at potentially massive scale with minimal administration overhead. Prior to this role, Chris was the global Business Development Manager for DevOps at AWS, spent a few years as a Solutions Architect at AWS, and has held senior operations engineering posts at Etsy, Meetup, and other NYC based startups. Chris has a Bachelor of Science in Applied Networking and System Administration from the Rochester Institute of Technology.",
+		"title":"Serverless is Dead!",
+		"abstract":"Long live Serverless! Since the launch of AWS Lambda in 2014 the industry has battled around what the word “serverless” has meant. I say, in 2019 who cares? In this talk we’ll cut past the hype and talk about the realities of what this technology space means, how it’s changing how companies build and operate technology, and how you can properly understand the value it brings to the table."
 	}
 ];
