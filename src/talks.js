@@ -18,7 +18,7 @@ module.exports = [
 	{
 		"key":"josh-carlisle-rainbows-unicorns-etc",
 		"speaker":"Josh Carlisle",
-		"photoUrl":"headshot-silhouette-transparent-bground.1024x1024.png",
+		"photoUrl":"josh-carlisle.jpg",
 		"bio":"Josh Carlisle is a Microsoft MVP in Azure and an engineer with AppDynamics. Based out of Raleigh, North Carolina he has been engaging with the developer community for more than half of his professional career. With over 20 years of development and consulting experience, he is currently focused on Microsoft Azure and especially Azure’s Serverless offerings. He currently co-organizes the Raleigh Serverless meetup and he enjoys sharing his knowledge and experience at developer community events throughout the world.",
 		"title":"Rainbows, Unicorns, and other Fairy Tales in the Land of Serverless Dreams",
 		"abstract":"With all the Serverless hype it’s easy to get caught up in the dream but the reality is not always Rainbows and Unicorns. Sometimes leprechauns steal your gold and unicorns bite! In this talk I’ll take you on some of my own journeys with Azure Functions and how I ensured I always had a happy ending!"
