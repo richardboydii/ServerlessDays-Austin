@@ -57,7 +57,7 @@ gulp.task("copy", function() {
 
 gulp.task("generateTalks", ["dev-assets"], () => {
   const talks = require("./src/talks");
-  const template = fs.readFileSync("./src/html/talk-template.html", {
+  const template = fs.readFileSync("./src/html/_talkTemplate.html", {
     encoding: "utf-8",
   });
   talks.forEach(talk => {
