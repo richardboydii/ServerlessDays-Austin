@@ -65,3 +65,9 @@ src/html-compiled
 
  # Ignore Mac DS_Store files
 .DS_Store
+
+# generated html, conference talk files
+src/html/talk-*.html
+
+# dist folder from build task
+dist/
