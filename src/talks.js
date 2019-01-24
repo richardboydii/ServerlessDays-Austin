@@ -10,7 +10,7 @@ module.exports = [
 	{
 		"key":"james-wickett-karthik-gaekwad-sec-in-faas-lane",
 		"speaker":"James Wickett/Karthik Gaekwad",
-		"photoUrl":"james-wickett.jpg",
+		"photoUrl":"james-wickett-karthik-gaekwad-2048x2048.png",
 		"bio":"James does most of his research and work is at the intersection of the DevOps and Security communities. He works as a Sr. Engineer at Signal Sciences and is a supporter of the Rugged Software and Rugged DevOps movements. Seeing the gap in software testing, James founded an open source project, Gauntlt, to serve as a Rugged Testing Framework. He is the co-author of the Lynda.com course: DevOps Fundamentals.\nHe got his start in technology when he founded a Web startup as a student at University of Oklahoma and since then has worked in environments ranging from large, web-scale enterprises to small, rapid-growth startups. He is a dynamic speaker on topics in DevOps, InfoSec, cloud security, security testing and Rugged DevOps.\nJames is the creator and founder of the Lonestar Application Security Conference which is the largest annual security conference in Austin, TX. He is a chapter leader for the OWASP Austin chapter and he holds the following security certifications: CISSP, GWAPT, GCFW, GSEC and CCSK and he serves on the GIAC Advisory Board.\nIn his spare time he is trying to learn how to make a perfect BBQ brisket.",
 		"title":"Security in the FaaS Lane",
 		"abstract":"Security in FaaS isn’t what we are used to, but this talk shows you how what we learned in appsec still applies. Using LambHack, which is a vulnerable serverless application written in Go on AWS Lambda using Sparta, we will evaluate how to do security in serverless."
