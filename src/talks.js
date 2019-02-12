@@ -43,7 +43,7 @@ module.exports = [
 		"key":"belinda-vennam-knative-serverless-to-cluster-near-you",
 		"speaker":"Belinda Vennam",
 		"photoUrl":"belinda-vennam-headshot.png",
-		"bio":"I’m a software engineer with professional experience in technical, leadership, and management roles, as well as volunteer experience in Central America. I’m currently a developer advocate for the IBM Cloud, with a focus on IBM Cloud Functions, our Serverless solution. I’m also one of the contributors on the open-source Apache OpenWhisk project.\nI’m an engaging and passionate speaker with speaking experience at a number of events, including ServerlessDays Seattle, Swift Cloud Workshop 2, and IBM’s InterConnect conference.",
+		"bio":"Belinda Vennam is a developer advocate at IBM, with a focus on cloud & serverless. Prior to this role, she was a developer on the IBM Cloud Functions team and a contributor to the open-source Apache OpenWhisk project. Belinda loves to travel, volunteer, and learn and share about what’s happening in the cloud.",
 		"title":"Knative: Bringing Serverless to a Cluster Near You",
 		"abstract":"The Knative open-source project promises to simplify how we build, deploy, and manage Serverless workloads on top of Kubernetes. We’ll discuss how Knative is attempting to address the promises of Serverless through the creation of their Build, Serving, and Eventing primitives."
 	},
